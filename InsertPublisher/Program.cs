@@ -10,6 +10,7 @@ namespace InsertPublisher
     {
         static void Main(string[] args)
         {
+            Read.ReadPublisher();
         }
     }
 }
