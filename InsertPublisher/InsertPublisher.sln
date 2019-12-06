@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertPublisher", "InsertPublisher.csproj", "{99E4A32D-D4F9-4F58-9AF0-EC0DDF02CD60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertPublisherApp", "InsertPublisherApp.csproj", "{99E4A32D-D4F9-4F58-9AF0-EC0DDF02CD60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
