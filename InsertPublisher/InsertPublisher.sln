@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummaryPublisherApp", "..\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudBookApp", "..\CrudBookApp\CrudBookApp.csproj", "{9B530AE3-CBA3-47D6-8B1E-9D28D4489321}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummaryBookApp", "..\SummaryBookApp\SummaryBookApp.csproj", "{04DFD769-1ACD-4207-9EB4-85D02825F4AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9B530AE3-CBA3-47D6-8B1E-9D28D4489321}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B530AE3-CBA3-47D6-8B1E-9D28D4489321}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B530AE3-CBA3-47D6-8B1E-9D28D4489321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DFD769-1ACD-4207-9EB4-85D02825F4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DFD769-1ACD-4207-9EB4-85D02825F4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DFD769-1ACD-4207-9EB4-85D02825F4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DFD769-1ACD-4207-9EB4-85D02825F4AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
